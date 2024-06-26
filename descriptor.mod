@@ -1,0 +1,15 @@
+version="1"
+tags={
+	"Balance"
+	"Fixes"
+	"Graphics"
+	"Ideologies"
+	"Military"
+	"Sound"
+	"Translation"
+	"Alternative History"
+	"Historical"
+	"Gameplay"
+}
+name="LEADERHOTFORDE"
+supported_version="1.14.7"
