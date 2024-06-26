@@ -13,3 +13,5 @@ tags={
 }
 name="LEADERHOTFORDE"
 supported_version="1.14.7"
+replace_path = "gfx/leaders"
+replace_path = "gfx/minimap"
