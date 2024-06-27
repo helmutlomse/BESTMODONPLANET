@@ -1,18 +1,11 @@
-version="1"
+version="0.1"
 tags={
 	"Balance"
 	"Fixes"
 	"Graphics"
-	"Ideologies"
-	"Military"
-	"Sound"
-	"Translation"
-	"Alternative History"
-	"Historical"
-	"Gameplay"
 }
-name="LEADERHOTFORDE"
-replace_path="gfx/leaders"
-replace_path="gfx/minimap"
-supported_version="1.14.7"
+picture="esports.png"
+name="LEADERHOTFORDE META"
+supported_version="1.14.*"
 remote_file_id="3276013033"
+dependencies = { "Force Attack" }
