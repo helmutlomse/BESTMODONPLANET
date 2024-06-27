@@ -12,6 +12,7 @@ tags={
 	"Gameplay"
 }
 name="LEADERHOTFORDE"
+replace_path="gfx/leaders"
+replace_path="gfx/minimap"
 supported_version="1.14.7"
-replace_path = "gfx/leaders"
-replace_path = "gfx/minimap"
+remote_file_id="3276013033"
